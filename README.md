@@ -47,7 +47,7 @@ After pressing **Esc** or **Space** a pause menu is triggered, which can be used
 ![image](https://cloud.githubusercontent.com/assets/26493472/24073817/0aae2f3e-0bfe-11e7-9476-10efcc76502c.png)
 
 # Support
-Feel free to ask questions here com.schindler.stefan@gmail.com.
+If you have any questions, feel free to open New Issue.
 
 # Special Thanks to
 * **Davide Nardella** for creating Sharp7
