@@ -11,15 +11,18 @@ If you have TIA Portal but don't have any machine to program, then this project 
 It is important to do the following steps in order they are written in.
 
 ## NetToPLCSim
-1. Restart your computer
+1. Restart your computer (optional, read the **Note** below).
 2. Start **NetToPLCsim.exe** as Administrator.
 3. If dialog window about Port 102 pops up, click on Yes to make the port available.
 4. In NetToPLCSim open the **defualt.ini** file contained in this repo.
 5. Click on *Start Server* button.
+>**Note:** The computer restart is not needed if you haven't started TIA Portal or PLCSIM yet since the computer power-up. 
+
+![Screen](https://cloud.githubusercontent.com/assets/26493472/24073674/7a75d8ba-0bfb-11e7-92a4-8159509bccb8.png)
 
 ## PLCSIM
 1. Start **PLCSIM**.
-2. Create new *S7-1200* project or open existing.
+2. Create new *S7-1200* project or open existing one.
 
 ## TIA Portal
 1. Start **TIA Portal**.
@@ -31,3 +34,19 @@ It is important to do the following steps in order they are written in.
 2. Choose screen resolution and hit Play button.
 3. Click on the *Connect* button in lower left corner.
 4. If everything goes ok, it should change its text to *Disconnect* (which means it is successfully connected to PLCSIM). 
+
+![image](https://cloud.githubusercontent.com/assets/26493472/24073735/659e09c0-0bfc-11e7-9e04-e1699d42539d.png)
+
+# How to Program
+Now you can *Save as* the opened PackingMachine_Clean TIA Portal project under different name and start programming. The list of Inputs and Outputs can be found in the same-named PLC Tag tables. Even in the simulation app after pressing Esc or Space and clicking on the Help icon, a list of keyboard shortcuts is present which can be used to manually trigger individual outputs (only when Disconnected from PLCSIM).
+
+![image](https://cloud.githubusercontent.com/assets/26493472/24073877/efb4adec-0bfe-11e7-858a-57cb9235afff.png)
+
+After pressing **Esc** or **Space** a pause menu is triggered, which can be used to *Reset* the scene.
+
+![image](https://cloud.githubusercontent.com/assets/26493472/24073817/0aae2f3e-0bfe-11e7-9476-10efcc76502c.png)
+
+# Special Thanks to
+* **Davide Nardella** for creating Sharp7
+* **Thomas Wiens** for creating NetToPLCSim
+
