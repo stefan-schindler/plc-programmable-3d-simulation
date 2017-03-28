@@ -21,9 +21,22 @@ Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMa
 Loading C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.074 seconds
+- Completed reload, in  0.066 seconds
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\System.dll (this message is harmless)
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.200795 ms
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToInt32 (System.String value) [0x00000] in <filename unknown>:0 
+  at PlcConnection.ParseAddress (System.String address) [0x00000] in <filename unknown>:0 
+  at PlcConnection.ParseAddresses (System.String[] addresses) [0x00000] in <filename unknown>:0 
+  at PlcConnection.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7d0 -> priority: 1 
