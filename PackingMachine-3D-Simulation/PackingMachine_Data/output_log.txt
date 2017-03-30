@@ -21,13 +21,13 @@ Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMa
 Loading C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.051 seconds
+- Completed reload, in  0.038 seconds
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\System.dll (this message is harmless)
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.222082 ms
+UnloadTime: 1.227023 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: ae8 -> priority: 1 
+  Thread -> id: 858 -> priority: 1 
