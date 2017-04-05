@@ -21,13 +21,31 @@ Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMa
 Loading C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.038 seconds
+- Completed reload, in  0.067 seconds
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\System.dll (this message is harmless)
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.227023 ms
+UnloadTime: 1.229684 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.771233 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2235.
+Total: 0.890238 ms (FindLiveObjects: 0.165731 ms CreateObjectMapping: 0.065000 ms MarkObjects: 0.651143 ms  DeleteObjects: 0.007602 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.962553 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2235.
+Total: 0.717284 ms (FindLiveObjects: 0.148246 ms CreateObjectMapping: 0.041052 ms MarkObjects: 0.520002 ms  DeleteObjects: 0.007222 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.250303 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2235.
+Total: 0.712342 ms (FindLiveObjects: 0.148626 ms CreateObjectMapping: 0.040672 ms MarkObjects: 0.515441 ms  DeleteObjects: 0.007222 ms)
+
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 858 -> priority: 1 
+  Thread -> id: 2220 -> priority: 1 
