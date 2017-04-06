@@ -52,4 +52,5 @@ If you have any questions, feel free to open New Issue.
 # Special Thanks to
 * **Davide Nardella** for creating Sharp7
 * **Thomas Wiens** for creating NetToPLCSim
+* **Michele Cattafesta** (www.mesta-automation.com) for [great tutorial](https://www.mesta-automation.com/how-to-write-a-siemens-s7-plc-driver-with-c-and-sharp7/#comment-950) on Sharp7
 
