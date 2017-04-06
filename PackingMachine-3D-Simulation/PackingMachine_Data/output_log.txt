@@ -27,13 +27,3 @@ Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMa
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 1.254012 ms
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.737792 ms
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2235.
-Total: 0.642020 ms (FindLiveObjects: 0.105673 ms CreateObjectMapping: 0.038392 ms MarkObjects: 0.491493 ms  DeleteObjects: 0.005701 ms)
-
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 14f8 -> priority: 1 
