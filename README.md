@@ -1,3 +1,4 @@
+![Logo](https://cloud.githubusercontent.com/assets/26493472/24761704/7bf03ca8-1aec-11e7-8db8-3e7e2480384a.png)
 # Introduction
 If you have TIA Portal but don't have any machine to program, then this project is for you. It is a 3D simulation of *Packing Machine* which is controlled by *Siemens S7-PLCSIM* (virtual PLC). So basically you can program PLCSIM using TIA Portal, and test the program visually in the 3D graphical simulation.
 
