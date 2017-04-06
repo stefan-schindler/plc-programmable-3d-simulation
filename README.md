@@ -40,9 +40,9 @@ It is important to do the following steps in order they are written in.
 # How to Program
 Now you can *Save as* the opened PackingMachine_Clean TIA Portal project under different name and start programming. The list of Inputs and Outputs can be found in the same-named PLC Tag tables. Even in the simulation app after pressing Esc or Space and clicking on the Help icon, a list of keyboard shortcuts is present which can be used to manually trigger individual outputs (only when Disconnected from PLCSIM).
 
-![image](https://cloud.githubusercontent.com/assets/26493472/24073877/efb4adec-0bfe-11e7-858a-57cb9235afff.png)
+![image](https://cloud.githubusercontent.com/assets/26493472/24757240/e58317f2-1ade-11e7-9439-65ba47b2e0b9.jpg)
 
-After pressing **Esc** or **Space** a pause menu is triggered, which can be used to *Reset* the scene.
+After pressing **Esc** a pause menu is triggered. You can also use **Space** shortcut to restart the scene.
 
 ![image](https://cloud.githubusercontent.com/assets/26493472/24073817/0aae2f3e-0bfe-11e7-9476-10efcc76502c.png)
 
