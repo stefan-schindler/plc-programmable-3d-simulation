@@ -21,7 +21,7 @@ Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMa
 Loading C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.036 seconds
+- Completed reload, in  0.035 seconds
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Stefan\Documents\Apps3D\PLC\PackingMachine\PackingMachine_Data\Managed\System.dll (this message is harmless)
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
