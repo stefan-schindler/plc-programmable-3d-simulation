@@ -1,0 +1,41 @@
+24 inputs
+13 outputs
+----
+0.2 Package Available
+0.0 Package Piston Retracted
+0.1 Package Piston Extended
+3.3 Package Motor Down
+1.5 Package Motor Up
+3.0 Package Motor Left
+1.0 Package Motor Right
+3.1 Cap Motor Mid Shift At Start
+3.4 Cap Motor Mid Shift At End
+2.1 Cap Motor Top Shift At Start
+0.6 Cap Motor Top Shift At End
+1.3 Cap Motor Down
+1.2 Cap Motor Up
+3.7 Cap Motor Right
+2.0 Cap Motor Left
+0.7 Cap Available
+3.2 Cap Piston Retracted
+1.4 Cap Piston Extended
+0.5 Ball Counter
+0.3 RotaTable Stick Present
+0.4 RotaTable Package Present
+2.3 Store Piston Retracted
+2.2 Store Piston Extended
+1.1 Store Full
+----
+6.0 Package Piston
+8.6 Package Motor Lift
+6.1 Package Motor Rotate
+6.2 Package Grab
+0.3 Ball Shifter
+0.2 RotaTable
+9.1 Cap Piston
+6.4 Cap Motor Mid Shift
+8.4 Cap Motor Top Shift
+9.0 Cap Motor Lift
+6.5 Cap Motor Rotate
+0.4 Cap Grab
+8.5 Store Piston

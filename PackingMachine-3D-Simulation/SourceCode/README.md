@@ -1,0 +1,2 @@
+The `PackingMachine` folder is an Unity 5 project, that the `PackingMachine.exe` file was creted from. 
+However, it doesn't contain post-processing and some fancy image effects as these features were from Unity Standard Assests and Post Processing stack, which are licensed by Unity and can't be published on GitHub.
